@@ -1,5 +1,5 @@
-# SDI
-Software Design and Implementation
+# AGROTECH
+System Software
 
 ## Project Description
 ## Group
